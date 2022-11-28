@@ -1,4 +1,6 @@
 ### Hi there 👋
+### My name is Vasily Nikolaev
+I am working in wind energy sector for over 10 years, graduated PhD in technical sciences with the subject of wind-diesel hybrid energy systems. I am passionate about data research and forecasting models, especially in the field of time series. In 2021 i've passed the Yandex.Practicum data science courses and currently work on a forecasting model of wind farm energy output. Also intereseting in the financial investments and intent on development of machine learning models for trading.
 
 <!--
 **N1kVasily/N1kVasily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
